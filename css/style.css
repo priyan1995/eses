@@ -2503,7 +2503,7 @@ font-weight: 700;
 
 @media (min-width:1200px){
    .pd-logo-main{
-       width: 350px !important;
+       width: 400px !important;
    }
    .navbar-brand{
        line-height: 75px;
